@@ -1,6 +1,6 @@
 # sslscanner
 
-This project is totally forked from the link https://github.com/marketplace/actions/testssl-sh-scan
+This project is totally forked from https://github.com/marketplace/actions/testssl-sh-scan
 and only local scanner is used here to scan SSL certificates on internal servers or network devices 
 
 #usage
